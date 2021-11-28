@@ -29,7 +29,7 @@
 <body>
 
   <spam class="column" style="align:left">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ13QaiAiifuTS-A8AECuooFoJlpkmcNLl_Kw&usqp=CAU" alt="Snow" style="width:100%">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ13QaiAiifuTS-A8AECuooFoJlpkmcNLl_Kw&usqp=CAU" alt="Snow" style="width:100% height:100%">
   </spam>
   <h3>Assignment from Praveenkumar.V <h3>
 
