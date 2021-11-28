@@ -1,4 +1,4 @@
-# FirstWebpage
+
 <html>
 <head>
 <style>
@@ -33,6 +33,7 @@
   </spam>
 
 <spam>
+<h3>Assignment by Praveen Kumar.V <h3>
 <h2 style="align:justify color:green" >LOVE TOWARDS NATURE </h2>
 
 <p style="align:right font-size:50px">   Nature has provided us numerous gifts such as air, water, land, sunlight, minerals, plants, and animals. All these gifts of nature make our earth a place worth living. Existence on Earth would not be possible without any of these. Now, while these natural resources are present on Earth in plenty. Unfortunately, the necessity of most of these has increased extremely over the centuries due to growth in the human population.</p>
@@ -52,5 +53,4 @@
   </div>
 </div>
 
-</body>
-</html>
+
