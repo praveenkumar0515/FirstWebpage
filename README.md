@@ -1,5 +1,4 @@
 # FirstWebpage
-<!DOCTYPE html>
 <html>
 <head>
 <style>
