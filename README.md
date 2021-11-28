@@ -31,7 +31,7 @@
   <spam class="column" style="align:left">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ13QaiAiifuTS-A8AECuooFoJlpkmcNLl_Kw&usqp=CAU" alt="Snow" style="width:100%">
   </spam>
-  <h3>Assignment by Praveen Kumar.V <h3>
+  <h3>Assignment from Praveenkumar.V <h3>
 
 <spam>
   <h3 style="align:justify color:green" >LOVE TOWARDS NATURE </h3>
